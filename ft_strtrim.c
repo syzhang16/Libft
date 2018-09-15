@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include "libft.h"
 
 static int		ft_start(char const *s)
